@@ -1,0 +1,596 @@
+2024-01-03 20:06:21,709 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop1\config.class]
+2024-01-03 20:06:21,750 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop1\PaymentServiceImpl.class]
+2024-01-03 20:06:21,779 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@51e69659
+2024-01-03 20:06:21,854 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-01-03 20:06:22,000 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop1\PaymentServiceImpl.class]
+2024-01-03 20:06:22,186 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-01-03 20:06:22,190 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-01-03 20:06:22,193 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-01-03 20:06:22,198 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalJsr250AnnotationProcessor'
+2024-01-03 20:06:22,263 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'config'
+2024-01-03 20:06:22,270 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'paymentServiceImpl'
+2024-01-03 20:06:29,326 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop1\config.class]
+2024-01-03 20:06:29,334 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop1\PaymentServiceImpl.class]
+2024-01-03 20:06:29,344 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@51e69659
+2024-01-03 20:06:29,366 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-01-03 20:06:29,406 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop1\PaymentServiceImpl.class]
+2024-01-03 20:06:29,484 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-01-03 20:06:29,486 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-01-03 20:06:29,488 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-01-03 20:06:29,490 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalJsr250AnnotationProcessor'
+2024-01-03 20:06:29,525 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'config'
+2024-01-03 20:06:29,529 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'paymentServiceImpl'
+2024-01-03 22:09:28,985 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\springjdbcdao\AccountDaoImpl.class]
+2024-01-03 22:09:28,996 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\springjdbcdao\DBConfiguration.class]
+2024-01-03 22:09:29,003 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\springjdbcdao\logging\AspectConfig.class]
+2024-01-03 22:09:29,006 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\springjdbcdao\logging\LoggingAspect.class]
+2024-01-03 22:09:29,007 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\springjdbcdao\RowMapperImpl.class]
+2024-01-03 22:09:29,023 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@26e356f0
+2024-01-03 22:09:29,054 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-01-03 22:09:29,291 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-01-03 22:09:29,294 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-01-03 22:09:29,296 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-01-03 22:09:29,300 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalJsr250AnnotationProcessor'
+2024-01-03 22:09:29,341 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2024-01-03 22:09:29,393 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'accountDaoImpl'
+2024-01-03 22:09:29,428 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.springjdbcdao.logging.LoggingAspect.before(org.aspectj.lang.JoinPoint)
+2024-01-03 22:09:29,447 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'jdbcTemplate'
+2024-01-03 22:09:29,448 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'DBConfiguration'
+2024-01-03 22:09:29,456 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.url' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 22:09:29,456 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.username' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 22:09:29,458 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.password' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 22:09:29,459 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.driver' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 22:09:29,597 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driverManagerDataSource'
+2024-01-03 22:09:29,609 DEBUG o.s.j.d.DriverManagerDataSource [main] Loaded JDBC driver: com.mysql.cj.jdbc.Driver
+2024-01-03 22:09:29,670 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'aspectConfig'
+2024-01-03 22:09:29,672 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loggingAspect'
+2024-01-03 22:09:29,679 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'rowMapperImpl'
+2024-01-03 22:09:29,709 INFO o.s.s.l.LoggingAspect [main] input to method selectOne with args :1
+2024-01-03 22:09:29,714 DEBUG o.s.j.c.JdbcTemplate [main] Executing prepared SQL query
+2024-01-03 22:09:29,715 DEBUG o.s.j.c.JdbcTemplate [main] Executing prepared SQL statement [SELECT * FROM account where accountNo=?]
+2024-01-03 22:09:29,722 DEBUG o.s.j.d.DataSourceUtils [main] Fetching JDBC Connection from DataSource
+2024-01-03 22:09:29,722 DEBUG o.s.j.d.DriverManagerDataSource [main] Creating new JDBC DriverManager Connection to [jdbc:mysql://localhost:3306/accountDB]
+2024-01-03 22:10:53,253 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\springjdbcdao\AccountDaoImpl.class]
+2024-01-03 22:10:53,261 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\springjdbcdao\DBConfiguration.class]
+2024-01-03 22:10:53,265 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\springjdbcdao\logging\AspectConfig.class]
+2024-01-03 22:10:53,267 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\springjdbcdao\logging\LoggingAspect.class]
+2024-01-03 22:10:53,268 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\springjdbcdao\RowMapperImpl.class]
+2024-01-03 22:10:53,279 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@26e356f0
+2024-01-03 22:10:53,306 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-01-03 22:10:53,514 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-01-03 22:10:53,518 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-01-03 22:10:53,521 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-01-03 22:10:53,528 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalJsr250AnnotationProcessor'
+2024-01-03 22:10:53,565 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2024-01-03 22:10:53,665 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'accountDaoImpl'
+2024-01-03 22:10:53,719 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.springjdbcdao.logging.LoggingAspect.before(org.aspectj.lang.JoinPoint)
+2024-01-03 22:10:53,737 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'jdbcTemplate'
+2024-01-03 22:10:53,737 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'DBConfiguration'
+2024-01-03 22:10:53,748 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.url' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 22:10:53,749 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.username' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 22:10:53,751 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.password' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 22:10:53,752 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.driver' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 22:10:53,847 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driverManagerDataSource'
+2024-01-03 22:10:53,853 DEBUG o.s.j.d.DriverManagerDataSource [main] Loaded JDBC driver: com.mysql.cj.jdbc.Driver
+2024-01-03 22:10:53,887 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'aspectConfig'
+2024-01-03 22:10:53,891 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loggingAspect'
+2024-01-03 22:10:53,895 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'rowMapperImpl'
+2024-01-03 22:10:53,912 INFO o.s.s.l.LoggingAspect [main] input to method selectOne with args :2
+2024-01-03 22:10:53,916 DEBUG o.s.j.c.JdbcTemplate [main] Executing prepared SQL query
+2024-01-03 22:10:53,917 DEBUG o.s.j.c.JdbcTemplate [main] Executing prepared SQL statement [SELECT * FROM account where accountNo=?]
+2024-01-03 22:10:53,921 DEBUG o.s.j.d.DataSourceUtils [main] Fetching JDBC Connection from DataSource
+2024-01-03 22:10:53,922 DEBUG o.s.j.d.DriverManagerDataSource [main] Creating new JDBC DriverManager Connection to [jdbc:mysql://localhost:3306/accountDB]
+2024-01-03 22:34:57,718 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\springjdbcdao\AccountDaoImpl.class]
+2024-01-03 22:34:57,725 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\springjdbcdao\DBConfiguration.class]
+2024-01-03 22:34:57,728 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\springjdbcdao\logging\AspectConfig.class]
+2024-01-03 22:34:57,730 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\springjdbcdao\logging\LoggingAspect.class]
+2024-01-03 22:34:57,730 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\springjdbcdao\RowMapperImpl.class]
+2024-01-03 22:34:57,740 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@26e356f0
+2024-01-03 22:34:57,772 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-01-03 22:34:57,945 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-01-03 22:34:57,947 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-01-03 22:34:57,949 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-01-03 22:34:57,952 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalJsr250AnnotationProcessor'
+2024-01-03 22:34:57,983 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2024-01-03 22:34:58,017 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'accountDaoImpl'
+2024-01-03 22:34:58,041 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.springjdbcdao.logging.LoggingAspect.before(org.aspectj.lang.JoinPoint)
+2024-01-03 22:34:58,054 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'jdbcTemplate'
+2024-01-03 22:34:58,055 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'DBConfiguration'
+2024-01-03 22:34:58,061 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.url' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 22:34:58,062 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.username' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 22:34:58,063 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.password' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 22:34:58,063 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.driver' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 22:34:58,139 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driverManagerDataSource'
+2024-01-03 22:34:58,145 DEBUG o.s.j.d.DriverManagerDataSource [main] Loaded JDBC driver: com.mysql.cj.jdbc.Driver
+2024-01-03 22:34:58,173 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'aspectConfig'
+2024-01-03 22:34:58,174 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loggingAspect'
+2024-01-03 22:34:58,179 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'rowMapperImpl'
+2024-01-03 22:35:53,674 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\AccountDaoImpl.class]
+2024-01-03 22:35:53,681 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\DBConfiguration.class]
+2024-01-03 22:35:53,685 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\AspectConfig.class]
+2024-01-03 22:35:53,687 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\LoggingAspect.class]
+2024-01-03 22:35:53,688 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\RowMapperImpl.class]
+2024-01-03 22:35:53,700 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@26e356f0
+2024-01-03 22:35:53,723 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-01-03 22:35:53,893 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-01-03 22:35:53,896 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-01-03 22:35:53,899 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-01-03 22:35:53,902 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalJsr250AnnotationProcessor'
+2024-01-03 22:35:53,936 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2024-01-03 22:35:53,971 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'accountDaoImpl'
+2024-01-03 22:35:53,997 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.before(org.aspectj.lang.JoinPoint)
+2024-01-03 22:35:54,014 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'jdbcTemplate'
+2024-01-03 22:35:54,014 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'DBConfiguration'
+2024-01-03 22:35:54,020 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.url' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 22:35:54,020 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.username' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 22:35:54,021 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.password' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 22:35:54,022 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.driver' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 22:35:54,095 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driverManagerDataSource'
+2024-01-03 22:35:54,101 DEBUG o.s.j.d.DriverManagerDataSource [main] Loaded JDBC driver: com.mysql.cj.jdbc.Driver
+2024-01-03 22:35:54,132 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'aspectConfig'
+2024-01-03 22:35:54,133 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loggingAspect'
+2024-01-03 22:35:54,136 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'rowMapperImpl'
+2024-01-03 22:35:54,155 INFO o.s.a.l.LoggingAspect [main] input to method selectOne with args :2
+2024-01-03 22:35:54,158 DEBUG o.s.j.c.JdbcTemplate [main] Executing prepared SQL query
+2024-01-03 22:35:54,159 DEBUG o.s.j.c.JdbcTemplate [main] Executing prepared SQL statement [SELECT * FROM account where accountNo=?]
+2024-01-03 22:35:54,164 DEBUG o.s.j.d.DataSourceUtils [main] Fetching JDBC Connection from DataSource
+2024-01-03 22:35:54,164 DEBUG o.s.j.d.DriverManagerDataSource [main] Creating new JDBC DriverManager Connection to [jdbc:mysql://localhost:3306/accountDB]
+2024-01-03 22:50:06,376 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\config\DBConfiguration.class]
+2024-01-03 22:50:06,391 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\AccountDaoImpl.class]
+2024-01-03 22:50:06,392 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\RowMapperImpl.class]
+2024-01-03 22:50:06,395 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\AspectConfig.class]
+2024-01-03 22:50:06,397 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\LoggingAspect.class]
+2024-01-03 22:50:06,409 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@26e356f0
+2024-01-03 22:50:06,435 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-01-03 22:50:06,604 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-01-03 22:50:06,606 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-01-03 22:50:06,609 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-01-03 22:50:06,612 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalJsr250AnnotationProcessor'
+2024-01-03 22:50:06,645 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2024-01-03 22:50:06,681 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'DBConfiguration'
+2024-01-03 22:50:06,709 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.before(org.aspectj.lang.JoinPoint)
+2024-01-03 22:50:06,710 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.after(org.aspectj.lang.JoinPoint)
+2024-01-03 22:50:06,724 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.url' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 22:50:06,725 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.username' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 22:50:06,726 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.password' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 22:50:06,726 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.driver' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 22:50:06,810 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'accountDaoImpl'
+2024-01-03 22:50:06,820 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'jdbcTemplate'
+2024-01-03 22:50:06,833 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driverManagerDataSource'
+2024-01-03 22:50:06,850 DEBUG o.s.j.d.DriverManagerDataSource [main] Loaded JDBC driver: com.mysql.cj.jdbc.Driver
+2024-01-03 22:50:06,899 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'rowMapperImpl'
+2024-01-03 22:50:06,901 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'aspectConfig'
+2024-01-03 22:50:06,902 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loggingAspect'
+2024-01-03 22:50:06,926 DEBUG o.s.j.c.JdbcTemplate [main] Executing prepared SQL update
+2024-01-03 22:50:06,927 DEBUG o.s.j.c.JdbcTemplate [main] Executing prepared SQL statement [INSERT INTO account(accountName,accountType) VALUES(?,?)]
+2024-01-03 22:50:06,930 DEBUG o.s.j.d.DataSourceUtils [main] Fetching JDBC Connection from DataSource
+2024-01-03 22:50:06,931 DEBUG o.s.j.d.DriverManagerDataSource [main] Creating new JDBC DriverManager Connection to [jdbc:mysql://localhost:3306/accountDB]
+2024-01-03 22:50:07,436 INFO o.s.a.l.LoggingAspect [main] input to method save with argument:Account(accountNo=0, accountName=Axis Bank Account, accountType=Loan Account)
+2024-01-03 22:50:07,437 INFO o.s.a.l.LoggingAspect [main] input to method selectOne with args :2
+2024-01-03 22:50:07,440 DEBUG o.s.j.c.JdbcTemplate [main] Executing prepared SQL query
+2024-01-03 22:50:07,441 DEBUG o.s.j.c.JdbcTemplate [main] Executing prepared SQL statement [SELECT * FROM account where accountNo=?]
+2024-01-03 22:50:07,441 DEBUG o.s.j.d.DataSourceUtils [main] Fetching JDBC Connection from DataSource
+2024-01-03 22:50:07,442 DEBUG o.s.j.d.DriverManagerDataSource [main] Creating new JDBC DriverManager Connection to [jdbc:mysql://localhost:3306/accountDB]
+2024-01-03 23:09:35,957 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\config\DBConfiguration.class]
+2024-01-03 23:09:35,972 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\AccountDaoImpl.class]
+2024-01-03 23:09:35,973 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\RowMapperImpl.class]
+2024-01-03 23:09:35,976 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\AspectConfig.class]
+2024-01-03 23:09:35,979 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\LoggingAspect.class]
+2024-01-03 23:09:35,990 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@26e356f0
+2024-01-03 23:09:36,016 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-01-03 23:09:36,194 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-01-03 23:09:36,197 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-01-03 23:09:36,200 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-01-03 23:09:36,202 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalJsr250AnnotationProcessor'
+2024-01-03 23:09:36,233 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2024-01-03 23:09:36,270 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'DBConfiguration'
+2024-01-03 23:09:36,297 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.before(org.aspectj.lang.JoinPoint)
+2024-01-03 23:09:36,298 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.after(org.aspectj.lang.JoinPoint)
+2024-01-03 23:09:36,299 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.afterReturnAdvice(org.aspectj.lang.JoinPoint,java.lang.Object)
+2024-01-03 23:09:36,307 WARN o.s.c.LocalVariableTableParameterNameDiscoverer [main] Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springproject.aop.logging.LoggingAspect
+2024-01-03 23:09:36,318 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.url' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:09:36,319 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.username' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:09:36,320 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.password' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:09:36,320 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.driver' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:09:36,401 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'accountDaoImpl'
+2024-01-03 23:09:36,407 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'jdbcTemplate'
+2024-01-03 23:09:36,413 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driverManagerDataSource'
+2024-01-03 23:09:36,421 DEBUG o.s.j.d.DriverManagerDataSource [main] Loaded JDBC driver: com.mysql.cj.jdbc.Driver
+2024-01-03 23:09:36,479 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'rowMapperImpl'
+2024-01-03 23:09:36,481 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'aspectConfig'
+2024-01-03 23:09:36,482 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loggingAspect'
+2024-01-03 23:09:36,504 DEBUG o.s.j.c.JdbcTemplate [main] Executing prepared SQL update
+2024-01-03 23:09:36,505 DEBUG o.s.j.c.JdbcTemplate [main] Executing prepared SQL statement [UPDATE account SET accountType=? WHERE accountNo=?]
+2024-01-03 23:09:36,507 DEBUG o.s.j.d.DataSourceUtils [main] Fetching JDBC Connection from DataSource
+2024-01-03 23:09:36,508 DEBUG o.s.j.d.DriverManagerDataSource [main] Creating new JDBC DriverManager Connection to [jdbc:mysql://localhost:3306/accountDB]
+2024-01-03 23:09:36,933 INFO o.s.a.l.LoggingAspect [main] input passed to method update with argument- Account(accountNo=4, accountName=null, accountType=Credit Card Account)
+2024-01-03 23:09:36,933 INFO o.s.a.l.LoggingAspect [main]  return value of method update with value -1
+2024-01-03 23:11:16,261 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\config\DBConfiguration.class]
+2024-01-03 23:11:16,278 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\AccountDaoImpl.class]
+2024-01-03 23:11:16,279 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\RowMapperImpl.class]
+2024-01-03 23:11:16,282 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\AspectConfig.class]
+2024-01-03 23:11:16,285 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\LoggingAspect.class]
+2024-01-03 23:11:16,296 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@26e356f0
+2024-01-03 23:11:16,321 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-01-03 23:11:16,492 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-01-03 23:11:16,495 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-01-03 23:11:16,498 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-01-03 23:11:16,501 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalJsr250AnnotationProcessor'
+2024-01-03 23:11:16,534 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2024-01-03 23:11:16,577 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'DBConfiguration'
+2024-01-03 23:11:16,604 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.before(org.aspectj.lang.JoinPoint)
+2024-01-03 23:11:16,606 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.after(org.aspectj.lang.JoinPoint)
+2024-01-03 23:11:16,607 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.afterReturnAdvice(org.aspectj.lang.JoinPoint,java.lang.Object)
+2024-01-03 23:11:16,615 WARN o.s.c.LocalVariableTableParameterNameDiscoverer [main] Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springproject.aop.logging.LoggingAspect
+2024-01-03 23:11:16,626 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.url' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:11:16,628 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.username' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:11:16,628 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.password' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:11:16,629 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.driver' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:11:16,706 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'accountDaoImpl'
+2024-01-03 23:11:16,713 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'jdbcTemplate'
+2024-01-03 23:11:16,718 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driverManagerDataSource'
+2024-01-03 23:11:16,725 DEBUG o.s.j.d.DriverManagerDataSource [main] Loaded JDBC driver: com.mysql.cj.jdbc.Driver
+2024-01-03 23:11:16,780 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'rowMapperImpl'
+2024-01-03 23:11:16,782 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'aspectConfig'
+2024-01-03 23:11:16,783 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loggingAspect'
+2024-01-03 23:11:16,806 DEBUG o.s.j.c.JdbcTemplate [main] Executing prepared SQL update
+2024-01-03 23:11:16,807 DEBUG o.s.j.c.JdbcTemplate [main] Executing prepared SQL statement [UPDATE account SET accountType=? WHERE accountNo=?]
+2024-01-03 23:11:16,810 DEBUG o.s.j.d.DataSourceUtils [main] Fetching JDBC Connection from DataSource
+2024-01-03 23:11:16,811 DEBUG o.s.j.d.DriverManagerDataSource [main] Creating new JDBC DriverManager Connection to [jdbc:mysql://localhost:3306/accountDB]
+2024-01-03 23:11:17,246 INFO o.s.a.l.LoggingAspect [main] input passed to method update with argument- Account(accountNo=9, accountName=null, accountType=Credit Card Account)
+2024-01-03 23:11:17,246 INFO o.s.a.l.LoggingAspect [main]  return value of method update with value :0
+2024-01-03 23:14:36,566 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\config\DBConfiguration.class]
+2024-01-03 23:14:36,578 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\AccountDaoImpl.class]
+2024-01-03 23:14:36,579 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\RowMapperImpl.class]
+2024-01-03 23:14:36,582 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\AspectConfig.class]
+2024-01-03 23:14:36,585 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\LoggingAspect.class]
+2024-01-03 23:14:36,595 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@26e356f0
+2024-01-03 23:14:36,618 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-01-03 23:14:36,781 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-01-03 23:14:36,784 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-01-03 23:14:36,786 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-01-03 23:14:36,789 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalJsr250AnnotationProcessor'
+2024-01-03 23:14:36,820 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2024-01-03 23:14:36,857 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'DBConfiguration'
+2024-01-03 23:14:36,885 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.before(org.aspectj.lang.JoinPoint)
+2024-01-03 23:14:36,886 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.after(org.aspectj.lang.JoinPoint)
+2024-01-03 23:14:36,887 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.afterReturnAdvice(org.aspectj.lang.JoinPoint,java.lang.Object)
+2024-01-03 23:14:36,895 WARN o.s.c.LocalVariableTableParameterNameDiscoverer [main] Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springproject.aop.logging.LoggingAspect
+2024-01-03 23:14:36,908 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.url' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:14:36,909 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.username' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:14:36,910 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.password' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:14:36,910 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.driver' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:14:36,987 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'accountDaoImpl'
+2024-01-03 23:14:36,994 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'jdbcTemplate'
+2024-01-03 23:14:36,999 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driverManagerDataSource'
+2024-01-03 23:14:37,007 DEBUG o.s.j.d.DriverManagerDataSource [main] Loaded JDBC driver: com.mysql.cj.jdbc.Driver
+2024-01-03 23:14:37,056 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'rowMapperImpl'
+2024-01-03 23:14:37,058 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'aspectConfig'
+2024-01-03 23:14:37,060 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loggingAspect'
+2024-01-03 23:14:37,080 DEBUG o.s.j.c.JdbcTemplate [main] Executing prepared SQL update
+2024-01-03 23:14:37,081 DEBUG o.s.j.c.JdbcTemplate [main] Executing prepared SQL statement [UPDATE account SET accountType=? WHERE accountNo=?]
+2024-01-03 23:14:37,084 DEBUG o.s.j.d.DataSourceUtils [main] Fetching JDBC Connection from DataSource
+2024-01-03 23:14:37,085 DEBUG o.s.j.d.DriverManagerDataSource [main] Creating new JDBC DriverManager Connection to [jdbc:mysql://localhost:3306/accountDB]
+2024-01-03 23:14:37,514 INFO o.s.a.l.LoggingAspect [main] input passed to method update with argument- Account(accountNo=9, accountName=null, accountType=Credit Card Account)
+2024-01-03 23:14:37,514 INFO o.s.a.l.LoggingAspect [main] methodupdate not returned a value
+2024-01-03 23:14:54,213 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\config\DBConfiguration.class]
+2024-01-03 23:14:54,226 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\AccountDaoImpl.class]
+2024-01-03 23:14:54,227 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\RowMapperImpl.class]
+2024-01-03 23:14:54,230 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\AspectConfig.class]
+2024-01-03 23:14:54,233 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\LoggingAspect.class]
+2024-01-03 23:14:54,243 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@26e356f0
+2024-01-03 23:14:54,270 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-01-03 23:14:54,434 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-01-03 23:14:54,436 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-01-03 23:14:54,439 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-01-03 23:14:54,442 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalJsr250AnnotationProcessor'
+2024-01-03 23:14:54,473 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2024-01-03 23:14:54,506 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'DBConfiguration'
+2024-01-03 23:14:54,532 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.before(org.aspectj.lang.JoinPoint)
+2024-01-03 23:14:54,534 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.after(org.aspectj.lang.JoinPoint)
+2024-01-03 23:14:54,535 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.afterReturnAdvice(org.aspectj.lang.JoinPoint,java.lang.Object)
+2024-01-03 23:14:54,542 WARN o.s.c.LocalVariableTableParameterNameDiscoverer [main] Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springproject.aop.logging.LoggingAspect
+2024-01-03 23:14:54,553 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.url' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:14:54,555 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.username' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:14:54,555 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.password' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:14:54,556 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.driver' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:14:54,639 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'accountDaoImpl'
+2024-01-03 23:14:54,645 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'jdbcTemplate'
+2024-01-03 23:14:54,651 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driverManagerDataSource'
+2024-01-03 23:14:54,658 DEBUG o.s.j.d.DriverManagerDataSource [main] Loaded JDBC driver: com.mysql.cj.jdbc.Driver
+2024-01-03 23:14:54,708 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'rowMapperImpl'
+2024-01-03 23:14:54,711 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'aspectConfig'
+2024-01-03 23:14:54,712 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loggingAspect'
+2024-01-03 23:14:54,732 DEBUG o.s.j.c.JdbcTemplate [main] Executing prepared SQL update
+2024-01-03 23:14:54,733 DEBUG o.s.j.c.JdbcTemplate [main] Executing prepared SQL statement [UPDATE account SET accountType=? WHERE accountNo=?]
+2024-01-03 23:14:54,736 DEBUG o.s.j.d.DataSourceUtils [main] Fetching JDBC Connection from DataSource
+2024-01-03 23:14:54,737 DEBUG o.s.j.d.DriverManagerDataSource [main] Creating new JDBC DriverManager Connection to [jdbc:mysql://localhost:3306/accountDB]
+2024-01-03 23:14:55,185 INFO o.s.a.l.LoggingAspect [main] input passed to method update with argument- Account(accountNo=9, accountName=null, accountType=Credit Card Account)
+2024-01-03 23:14:55,185 INFO o.s.a.l.LoggingAspect [main] method :update not returned a value
+2024-01-03 23:26:08,325 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\config\DBConfiguration.class]
+2024-01-03 23:26:08,339 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\AccountDaoImpl.class]
+2024-01-03 23:26:08,340 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\RowMapperImpl.class]
+2024-01-03 23:26:08,343 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\AspectConfig.class]
+2024-01-03 23:26:08,347 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\LoggingAspect.class]
+2024-01-03 23:26:08,358 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@26e356f0
+2024-01-03 23:26:08,390 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-01-03 23:26:08,554 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-01-03 23:26:08,556 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-01-03 23:26:08,559 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-01-03 23:26:08,562 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalJsr250AnnotationProcessor'
+2024-01-03 23:26:08,595 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2024-01-03 23:26:08,632 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'DBConfiguration'
+2024-01-03 23:26:08,662 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.before(org.aspectj.lang.JoinPoint)
+2024-01-03 23:26:08,663 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.after(org.aspectj.lang.JoinPoint)
+2024-01-03 23:26:08,664 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.afterReturnAdvice(org.aspectj.lang.JoinPoint,java.lang.Object)
+2024-01-03 23:26:08,673 WARN o.s.c.LocalVariableTableParameterNameDiscoverer [main] Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springproject.aop.logging.LoggingAspect
+2024-01-03 23:26:08,674 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.afterThrowAdvice(org.aspectj.lang.JoinPoint,java.lang.Exception)
+2024-01-03 23:26:08,675 WARN o.s.c.LocalVariableTableParameterNameDiscoverer [main] Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springproject.aop.logging.LoggingAspect
+2024-01-03 23:26:08,685 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.url' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:26:08,686 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.username' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:26:08,687 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.password' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:26:08,688 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.driver' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:26:08,771 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'accountDaoImpl'
+2024-01-03 23:26:08,777 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'jdbcTemplate'
+2024-01-03 23:26:08,784 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driverManagerDataSource'
+2024-01-03 23:26:08,789 DEBUG o.s.j.d.DriverManagerDataSource [main] Loaded JDBC driver: com.mysql.cj.jdbc.Driver
+2024-01-03 23:26:08,847 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'rowMapperImpl'
+2024-01-03 23:26:08,850 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'aspectConfig'
+2024-01-03 23:26:08,852 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loggingAspect'
+2024-01-03 23:27:31,485 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\config\DBConfiguration.class]
+2024-01-03 23:27:31,499 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\AccountDaoImpl.class]
+2024-01-03 23:27:31,500 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\RowMapperImpl.class]
+2024-01-03 23:27:31,504 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\AspectConfig.class]
+2024-01-03 23:27:31,508 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\LoggingAspect.class]
+2024-01-03 23:27:31,519 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@26e356f0
+2024-01-03 23:27:31,546 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-01-03 23:27:31,713 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-01-03 23:27:31,716 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-01-03 23:27:31,717 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-01-03 23:27:31,720 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalJsr250AnnotationProcessor'
+2024-01-03 23:27:31,749 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2024-01-03 23:27:31,786 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'DBConfiguration'
+2024-01-03 23:27:31,819 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.before(org.aspectj.lang.JoinPoint)
+2024-01-03 23:27:31,822 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.after(org.aspectj.lang.JoinPoint)
+2024-01-03 23:27:31,823 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.afterReturnAdvice(org.aspectj.lang.JoinPoint,java.lang.Object)
+2024-01-03 23:27:31,831 WARN o.s.c.LocalVariableTableParameterNameDiscoverer [main] Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springproject.aop.logging.LoggingAspect
+2024-01-03 23:27:31,832 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.afterThrowAdvice(org.aspectj.lang.JoinPoint,java.lang.Exception)
+2024-01-03 23:27:31,833 WARN o.s.c.LocalVariableTableParameterNameDiscoverer [main] Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springproject.aop.logging.LoggingAspect
+2024-01-03 23:27:31,844 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.url' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:27:31,845 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.username' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:27:31,846 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.password' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:27:31,846 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.driver' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:27:31,922 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'accountDaoImpl'
+2024-01-03 23:27:31,930 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'jdbcTemplate'
+2024-01-03 23:27:31,935 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driverManagerDataSource'
+2024-01-03 23:27:31,941 DEBUG o.s.j.d.DriverManagerDataSource [main] Loaded JDBC driver: com.mysql.cj.jdbc.Driver
+2024-01-03 23:27:32,003 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'rowMapperImpl'
+2024-01-03 23:27:32,005 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'aspectConfig'
+2024-01-03 23:27:32,007 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loggingAspect'
+2024-01-03 23:27:32,035 INFO o.s.a.l.LoggingAspect [main] method name :getDemoException, exception caught:Arithmetic exception has occured
+2024-01-03 23:28:50,448 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\config\DBConfiguration.class]
+2024-01-03 23:28:50,460 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\AccountDaoImpl.class]
+2024-01-03 23:28:50,461 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\RowMapperImpl.class]
+2024-01-03 23:28:50,464 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\AspectConfig.class]
+2024-01-03 23:28:50,467 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\LoggingAspect.class]
+2024-01-03 23:28:50,479 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@54a7079e
+2024-01-03 23:28:50,507 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-01-03 23:28:50,672 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-01-03 23:28:50,675 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-01-03 23:28:50,677 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-01-03 23:28:50,680 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalJsr250AnnotationProcessor'
+2024-01-03 23:28:50,709 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2024-01-03 23:28:50,741 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'DBConfiguration'
+2024-01-03 23:28:50,769 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.before(org.aspectj.lang.JoinPoint)
+2024-01-03 23:28:50,771 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.after(org.aspectj.lang.JoinPoint)
+2024-01-03 23:28:50,772 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.afterReturnAdvice(org.aspectj.lang.JoinPoint,java.lang.Object)
+2024-01-03 23:28:50,780 WARN o.s.c.LocalVariableTableParameterNameDiscoverer [main] Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springproject.aop.logging.LoggingAspect
+2024-01-03 23:28:50,781 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.afterThrowAdvice(org.aspectj.lang.JoinPoint,java.lang.Exception)
+2024-01-03 23:28:50,782 WARN o.s.c.LocalVariableTableParameterNameDiscoverer [main] Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springproject.aop.logging.LoggingAspect
+2024-01-03 23:28:50,792 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.url' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:28:50,794 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.username' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:28:50,794 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.password' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:28:50,795 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.driver' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:28:50,875 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'accountDaoImpl'
+2024-01-03 23:28:50,882 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'jdbcTemplate'
+2024-01-03 23:28:50,888 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driverManagerDataSource'
+2024-01-03 23:28:50,893 DEBUG o.s.j.d.DriverManagerDataSource [main] Loaded JDBC driver: com.mysql.cj.jdbc.Driver
+2024-01-03 23:28:50,952 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'rowMapperImpl'
+2024-01-03 23:28:50,955 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'aspectConfig'
+2024-01-03 23:28:50,957 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loggingAspect'
+2024-01-03 23:30:16,809 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\config\DBConfiguration.class]
+2024-01-03 23:30:16,821 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\AccountDaoImpl.class]
+2024-01-03 23:30:16,822 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\RowMapperImpl.class]
+2024-01-03 23:30:16,826 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\AspectConfig.class]
+2024-01-03 23:30:16,829 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\LoggingAspect.class]
+2024-01-03 23:30:16,839 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@26e356f0
+2024-01-03 23:30:16,864 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-01-03 23:30:17,027 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-01-03 23:30:17,030 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-01-03 23:30:17,032 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-01-03 23:30:17,034 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalJsr250AnnotationProcessor'
+2024-01-03 23:30:17,068 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2024-01-03 23:30:17,109 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'DBConfiguration'
+2024-01-03 23:30:17,149 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.before(org.aspectj.lang.JoinPoint)
+2024-01-03 23:30:17,150 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.after(org.aspectj.lang.JoinPoint)
+2024-01-03 23:30:17,151 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.afterReturnAdvice(org.aspectj.lang.JoinPoint,java.lang.Object)
+2024-01-03 23:30:17,161 WARN o.s.c.LocalVariableTableParameterNameDiscoverer [main] Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springproject.aop.logging.LoggingAspect
+2024-01-03 23:30:17,162 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.afterThrowAdvice(org.aspectj.lang.JoinPoint,java.lang.Exception)
+2024-01-03 23:30:17,163 WARN o.s.c.LocalVariableTableParameterNameDiscoverer [main] Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springproject.aop.logging.LoggingAspect
+2024-01-03 23:30:17,174 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.url' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:30:17,175 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.username' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:30:17,176 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.password' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:30:17,176 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.driver' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:30:17,256 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'accountDaoImpl'
+2024-01-03 23:30:17,263 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'jdbcTemplate'
+2024-01-03 23:30:17,268 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driverManagerDataSource'
+2024-01-03 23:30:17,274 DEBUG o.s.j.d.DriverManagerDataSource [main] Loaded JDBC driver: com.mysql.cj.jdbc.Driver
+2024-01-03 23:30:17,343 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'rowMapperImpl'
+2024-01-03 23:30:17,347 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'aspectConfig'
+2024-01-03 23:30:17,349 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loggingAspect'
+2024-01-03 23:30:54,621 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\config\DBConfiguration.class]
+2024-01-03 23:30:54,634 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\AccountDaoImpl.class]
+2024-01-03 23:30:54,635 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\RowMapperImpl.class]
+2024-01-03 23:30:54,638 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\AspectConfig.class]
+2024-01-03 23:30:54,642 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\LoggingAspect.class]
+2024-01-03 23:30:54,657 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@54a7079e
+2024-01-03 23:30:54,680 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-01-03 23:30:54,850 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-01-03 23:30:54,853 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-01-03 23:30:54,855 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-01-03 23:30:54,858 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalJsr250AnnotationProcessor'
+2024-01-03 23:30:54,893 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2024-01-03 23:30:54,930 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'DBConfiguration'
+2024-01-03 23:30:54,960 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.before(org.aspectj.lang.JoinPoint)
+2024-01-03 23:30:54,961 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.after(org.aspectj.lang.JoinPoint)
+2024-01-03 23:30:54,962 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.afterReturnAdvice(org.aspectj.lang.JoinPoint,java.lang.Object)
+2024-01-03 23:30:54,970 WARN o.s.c.LocalVariableTableParameterNameDiscoverer [main] Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springproject.aop.logging.LoggingAspect
+2024-01-03 23:30:54,971 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.afterThrowAdvice(org.aspectj.lang.JoinPoint,java.lang.Exception)
+2024-01-03 23:30:54,973 WARN o.s.c.LocalVariableTableParameterNameDiscoverer [main] Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springproject.aop.logging.LoggingAspect
+2024-01-03 23:30:54,983 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.url' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:30:54,984 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.username' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:30:54,985 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.password' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:30:54,985 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.driver' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:30:55,063 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'accountDaoImpl'
+2024-01-03 23:30:55,070 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'jdbcTemplate'
+2024-01-03 23:30:55,075 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driverManagerDataSource'
+2024-01-03 23:30:55,081 DEBUG o.s.j.d.DriverManagerDataSource [main] Loaded JDBC driver: com.mysql.cj.jdbc.Driver
+2024-01-03 23:30:55,143 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'rowMapperImpl'
+2024-01-03 23:30:55,145 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'aspectConfig'
+2024-01-03 23:30:55,147 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loggingAspect'
+2024-01-03 23:30:55,176 INFO o.s.a.l.LoggingAspect [main] method name :getDemoException, exception caught:Arithmetic exception has occured
+2024-01-03 23:37:57,749 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\config\DBConfiguration.class]
+2024-01-03 23:37:57,761 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\AccountDaoImpl.class]
+2024-01-03 23:37:57,762 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\RowMapperImpl.class]
+2024-01-03 23:37:57,766 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\AspectConfig.class]
+2024-01-03 23:37:57,770 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\LoggingAspect.class]
+2024-01-03 23:37:57,781 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@26e356f0
+2024-01-03 23:37:57,811 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-01-03 23:37:57,982 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-01-03 23:37:57,984 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-01-03 23:37:57,987 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-01-03 23:37:57,990 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalJsr250AnnotationProcessor'
+2024-01-03 23:37:58,021 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2024-01-03 23:37:58,054 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'DBConfiguration'
+2024-01-03 23:37:58,085 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.around(org.aspectj.lang.JoinPoint)
+2024-01-03 23:37:58,088 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.before(org.aspectj.lang.JoinPoint)
+2024-01-03 23:37:58,089 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.after(org.aspectj.lang.JoinPoint)
+2024-01-03 23:37:58,090 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.afterReturnAdvice(org.aspectj.lang.JoinPoint,java.lang.Object)
+2024-01-03 23:37:58,098 WARN o.s.c.LocalVariableTableParameterNameDiscoverer [main] Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springproject.aop.logging.LoggingAspect
+2024-01-03 23:37:58,099 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.afterThrowAdvice(org.aspectj.lang.JoinPoint,java.lang.Exception)
+2024-01-03 23:37:58,100 WARN o.s.c.LocalVariableTableParameterNameDiscoverer [main] Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springproject.aop.logging.LoggingAspect
+2024-01-03 23:37:58,111 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.url' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:37:58,112 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.username' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:37:58,113 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.password' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:37:58,113 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.driver' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:37:58,181 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'accountDaoImpl'
+2024-01-03 23:37:58,187 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'jdbcTemplate'
+2024-01-03 23:37:58,192 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driverManagerDataSource'
+2024-01-03 23:37:58,197 DEBUG o.s.j.d.DriverManagerDataSource [main] Loaded JDBC driver: com.mysql.cj.jdbc.Driver
+2024-01-03 23:37:58,235 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'rowMapperImpl'
+2024-01-03 23:37:58,238 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'aspectConfig'
+2024-01-03 23:37:58,240 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loggingAspect'
+2024-01-03 23:37:58,264 INFO o.s.a.l.LoggingAspect [main] Executed method name :selectAll 
+2024-01-03 23:39:13,748 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\config\DBConfiguration.class]
+2024-01-03 23:39:13,760 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\AccountDaoImpl.class]
+2024-01-03 23:39:13,761 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\RowMapperImpl.class]
+2024-01-03 23:39:13,764 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\AspectConfig.class]
+2024-01-03 23:39:13,767 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\LoggingAspect.class]
+2024-01-03 23:39:13,778 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@26e356f0
+2024-01-03 23:39:13,803 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-01-03 23:39:13,969 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-01-03 23:39:13,972 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-01-03 23:39:13,974 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-01-03 23:39:13,978 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalJsr250AnnotationProcessor'
+2024-01-03 23:39:14,010 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2024-01-03 23:39:14,045 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'DBConfiguration'
+2024-01-03 23:39:14,072 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.before(org.aspectj.lang.JoinPoint)
+2024-01-03 23:39:14,074 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.after(org.aspectj.lang.JoinPoint)
+2024-01-03 23:39:14,074 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.afterReturnAdvice(org.aspectj.lang.JoinPoint,java.lang.Object)
+2024-01-03 23:39:14,083 WARN o.s.c.LocalVariableTableParameterNameDiscoverer [main] Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springproject.aop.logging.LoggingAspect
+2024-01-03 23:39:14,084 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.afterThrowAdvice(org.aspectj.lang.JoinPoint,java.lang.Exception)
+2024-01-03 23:39:14,085 WARN o.s.c.LocalVariableTableParameterNameDiscoverer [main] Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springproject.aop.logging.LoggingAspect
+2024-01-03 23:39:14,096 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.url' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:39:14,097 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.username' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:39:14,098 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.password' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:39:14,098 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.driver' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:39:14,162 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'accountDaoImpl'
+2024-01-03 23:39:14,169 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'jdbcTemplate'
+2024-01-03 23:39:14,174 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driverManagerDataSource'
+2024-01-03 23:39:14,180 DEBUG o.s.j.d.DriverManagerDataSource [main] Loaded JDBC driver: com.mysql.cj.jdbc.Driver
+2024-01-03 23:39:14,225 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'rowMapperImpl'
+2024-01-03 23:39:14,229 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'aspectConfig'
+2024-01-03 23:39:14,232 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loggingAspect'
+2024-01-03 23:39:14,252 DEBUG o.s.j.c.JdbcTemplate [main] Executing SQL query [select * from account]
+2024-01-03 23:39:14,255 DEBUG o.s.j.d.DataSourceUtils [main] Fetching JDBC Connection from DataSource
+2024-01-03 23:39:14,256 DEBUG o.s.j.d.DriverManagerDataSource [main] Creating new JDBC DriverManager Connection to [jdbc:mysql://localhost:3306/accountDB]
+2024-01-03 23:40:28,071 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\config\DBConfiguration.class]
+2024-01-03 23:40:28,085 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\AccountDaoImpl.class]
+2024-01-03 23:40:28,085 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\RowMapperImpl.class]
+2024-01-03 23:40:28,088 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\AspectConfig.class]
+2024-01-03 23:40:28,092 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\LoggingAspect.class]
+2024-01-03 23:40:28,102 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@26e356f0
+2024-01-03 23:40:28,132 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-01-03 23:40:28,297 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-01-03 23:40:28,302 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-01-03 23:40:28,303 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-01-03 23:40:28,306 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalJsr250AnnotationProcessor'
+2024-01-03 23:40:28,339 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2024-01-03 23:40:28,379 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'DBConfiguration'
+2024-01-03 23:40:28,416 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.around(org.aspectj.lang.JoinPoint)
+2024-01-03 23:40:28,419 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.before(org.aspectj.lang.JoinPoint)
+2024-01-03 23:40:28,420 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.after(org.aspectj.lang.JoinPoint)
+2024-01-03 23:40:28,420 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.afterReturnAdvice(org.aspectj.lang.JoinPoint,java.lang.Object)
+2024-01-03 23:40:28,427 WARN o.s.c.LocalVariableTableParameterNameDiscoverer [main] Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springproject.aop.logging.LoggingAspect
+2024-01-03 23:40:28,428 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.afterThrowAdvice(org.aspectj.lang.JoinPoint,java.lang.Exception)
+2024-01-03 23:40:28,429 WARN o.s.c.LocalVariableTableParameterNameDiscoverer [main] Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springproject.aop.logging.LoggingAspect
+2024-01-03 23:40:28,439 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.url' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:40:28,441 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.username' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:40:28,441 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.password' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:40:28,442 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.driver' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:40:28,508 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'accountDaoImpl'
+2024-01-03 23:40:28,514 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'jdbcTemplate'
+2024-01-03 23:40:28,519 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driverManagerDataSource'
+2024-01-03 23:40:28,524 DEBUG o.s.j.d.DriverManagerDataSource [main] Loaded JDBC driver: com.mysql.cj.jdbc.Driver
+2024-01-03 23:40:28,567 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'rowMapperImpl'
+2024-01-03 23:40:28,568 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'aspectConfig'
+2024-01-03 23:40:28,570 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loggingAspect'
+2024-01-03 23:40:28,594 INFO o.s.a.l.LoggingAspect [main] Executed method name :selectAll 
+2024-01-03 23:54:46,047 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\config\DBConfiguration.class]
+2024-01-03 23:54:46,060 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\AccountDaoImpl.class]
+2024-01-03 23:54:46,061 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\dao\RowMapperImpl.class]
+2024-01-03 23:54:46,063 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\AspectConfig.class]
+2024-01-03 23:54:46,069 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\HP\IdeaProjects\springproject\build\classes\java\main\org\springproject\aop\logging\LoggingAspect.class]
+2024-01-03 23:54:46,080 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@26e356f0
+2024-01-03 23:54:46,105 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2024-01-03 23:54:46,267 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2024-01-03 23:54:46,270 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2024-01-03 23:54:46,271 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2024-01-03 23:54:46,274 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalJsr250AnnotationProcessor'
+2024-01-03 23:54:46,316 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2024-01-03 23:54:46,345 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'DBConfiguration'
+2024-01-03 23:54:46,376 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public java.lang.Object org.springproject.aop.logging.LoggingAspect.around(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+2024-01-03 23:54:46,378 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.before(org.aspectj.lang.JoinPoint)
+2024-01-03 23:54:46,379 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.after(org.aspectj.lang.JoinPoint)
+2024-01-03 23:54:46,380 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.afterReturnAdvice(org.aspectj.lang.JoinPoint,java.lang.Object)
+2024-01-03 23:54:46,387 WARN o.s.c.LocalVariableTableParameterNameDiscoverer [main] Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springproject.aop.logging.LoggingAspect
+2024-01-03 23:54:46,387 DEBUG o.s.a.a.a.ReflectiveAspectJAdvisorFactory [main] Found AspectJ method: public void org.springproject.aop.logging.LoggingAspect.afterThrowAdvice(org.aspectj.lang.JoinPoint,java.lang.Exception)
+2024-01-03 23:54:46,388 WARN o.s.c.LocalVariableTableParameterNameDiscoverer [main] Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springproject.aop.logging.LoggingAspect
+2024-01-03 23:54:46,399 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.url' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:54:46,400 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.username' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:54:46,401 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.password' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:54:46,401 DEBUG o.s.c.e.PropertySourcesPropertyResolver [main] Found key 'dbconfig.driver' in PropertySource 'class path resource [dbconfig.properties]' with value of type String
+2024-01-03 23:54:46,465 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'accountDaoImpl'
+2024-01-03 23:54:46,471 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'jdbcTemplate'
+2024-01-03 23:54:46,476 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'driverManagerDataSource'
+2024-01-03 23:54:46,481 DEBUG o.s.j.d.DriverManagerDataSource [main] Loaded JDBC driver: com.mysql.cj.jdbc.Driver
+2024-01-03 23:54:46,515 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'rowMapperImpl'
+2024-01-03 23:54:46,518 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'aspectConfig'
+2024-01-03 23:54:46,520 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loggingAspect'
+2024-01-03 23:54:46,545 INFO o.s.a.l.LoggingAspect [main] Executed method name :selectOne is getting called with argument: 2 
+2024-01-03 23:54:46,545 INFO o.s.a.l.LoggingAspect [main] input to method selectOne with args :2
+2024-01-03 23:54:46,550 DEBUG o.s.j.c.JdbcTemplate [main] Executing prepared SQL query
+2024-01-03 23:54:46,551 DEBUG o.s.j.c.JdbcTemplate [main] Executing prepared SQL statement [SELECT * FROM account where accountNo=?]
+2024-01-03 23:54:46,554 DEBUG o.s.j.d.DataSourceUtils [main] Fetching JDBC Connection from DataSource
+2024-01-03 23:54:46,554 DEBUG o.s.j.d.DriverManagerDataSource [main] Creating new JDBC DriverManager Connection to [jdbc:mysql://localhost:3306/accountDB]
+2024-01-03 23:54:47,019 INFO o.s.a.l.LoggingAspect [main] Method executed :selectOne returns result :Account(accountNo=2, accountName=HDFC Bank Account, accountType=Current)
